@@ -1,0 +1,32 @@
+DATE: 21/02/19
+Java Prohgramming using Constructor and Overloading
+
+1) Write an application that declares the classname "sphere". 
+It should have instance variable to recall its radius and the cordinates of its centers.
+This should be of type "double". Use the new operator to create a sphere object and display its instance variable.
+	a) Using default constructor
+	b) Using argument constructor
+
+2) In problem 1. add two methods and find find Area and find Volume.
+Take one variable "radius" as "double" to display the surface area and volume of the sphare using argument constructor
+
+3) Write a program that simply prints "Wonder of objects" without using any 
+print statement .concrete method or "." inside the main method.
+
+4) Write an application that accepts one command line argument and display itsspanish equivalent. 
+For example, "UNO","dos","tres", "quarto" and "cinco" are the spanish tokens 
+for the number from "one" through "five".
+Create a class with static method to accomplish this task.
+
+5) WAP that has an overloaded method. The first method should accept no arguments.
+The second method should accept a string and the third method will accept a string and an integer.
+The first method should display "Welcome to JAVA".
+The second method should display "Welcome to Polymorphism" twice and the third method should display "Welcome to overloading" trice
+
+6) WAP to to define a class shape within the class shape define the three constructors; one for computing the Area of the triangel,
+other for Reactangle and the last one for the square.
+Using constructor overloading, display the area of Triangle, rectangle and square without defining any methods.
+
+7) Write an application that creates ten rock object and saves these in an array. Randomly select a mass
+between 1 and 10 kg for each rock as it created.
+After all rocks have been created, display there individual mass and total mass of all rocks.
